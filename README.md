@@ -1,5 +1,9 @@
 # Interface-Bound Proxy
 
+<p align="center">
+  <img src="logo.png" width="300">
+</p>
+
 Force your browser (or any app) to use a **specific network interface / internet line** by running a local proxy server that binds all outgoing connections to the chosen interface's IP.
 
 Works on **Windows** and **Linux/macOS**.

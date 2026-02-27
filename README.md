@@ -23,7 +23,6 @@ The proxy accepts HTTP and HTTPS (via CONNECT tunnelling) requests, then opens t
 | Action | Script |
 |--------|--------|
 | First-time setup + launch | Double-click **`setup.bat`** |
-| Quick launch (after setup) | Double-click **`run_proxy.bat`** |
 | Stop the proxy | Double-click **`kill.bat`** |
 
 `setup.bat` handles everything automatically, even on a fresh machine with no Python:
